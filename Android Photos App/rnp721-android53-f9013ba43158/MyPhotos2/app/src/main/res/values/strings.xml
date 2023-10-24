@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyPhotos</string>
+    <string name="edit" />
+    <string name="delete" />
+
+</resources>
